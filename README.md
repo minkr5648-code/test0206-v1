@@ -1,7 +1,11 @@
 # 한국디자인진흥원(KIDP) 홈페이지 리뉴얼 – 개인 프로젝트
 
-🔗 데모 사이트  
-https://minkr5648-code.github.io/test0206-v1/
+🔗 데모 사이트: https://minkr5648-code.github.io/test0206-v1/ <br>
+
+🎨 디자인 사이트: https://www.figma.com/design/7vxqf4A1NOIPwHJ15rPdf7/%ED%95%9C%EA%B5%AD-%EB%94%94%EC%9E%90%EC%9D%B8%EC%A7%84%ED%9D%A5%EC%9B%90-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%9C%A0%EC%8A%B9%EB%AA%85?node-id=124-4&t=Wi561DjbBe1p71ZU-1 <br>
+
+📑 기획서 사이트: https://www.canva.com/design/DAG1pwLW5sw/NOWJcFazsTkm3ZGm4OfjWw/edit?utm_content=DAG1pwLW5sw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton <br>
+
 ---
 |Before|After|
 |------|-----|
