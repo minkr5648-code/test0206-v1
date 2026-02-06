@@ -2,7 +2,10 @@
 
 🔗 데모 사이트  
 https://minkr5648-code.github.io/test0206-v1/
-
+---
+|Before|After|
+|------|-----|
+|<img width="1920" height="3172" alt="Image" src="https://github.com/user-attachments/assets/c4676cb0-b213-410e-80bc-13b47e8b4fe2" />|<img width="1920" height="5478" alt="Image" src="https://github.com/user-attachments/assets/9e4998c3-271c-4472-911d-d6be1f23e8f6" />|
 ---
 
 ## 1. 프로젝트 개요
